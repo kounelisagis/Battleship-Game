@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=
+comment1.target=int\ getSize()
+comment2.params=size
+comment2.target=void\ setSize(int)
+comment3.params=startTile\ orientation\ board\ verbose
+comment3.target=boolean\ placeShip(Tile,\ Orientation,\ Board,\ boolean)
+comment4.params=
+comment4.target=void\ isOutOfBounds()
+comment5.params=board
+comment5.target=void\ isOverlap(Board)
+comment6.params=board
+comment6.target=void\ isAdjacent(Board)
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=java.lang.String\ isTheEnd()
+comment2.params=
+comment2.target=void\ gameLoop()
+comment3.params=
+comment3.target=void\ placePlayerShips()
+comment4.params=
+comment4.target=void\ printResults()
+comment5.params=
+comment5.target=int[]\ getInput()
+comment6.params=
+comment6.target=int[]\ getRandInput()
+comment7.params=
+comment7.target=Orientation\ getOrientation()
+comment8.params=
+comment8.target=boolean\ randomPlace()
+comment9.params=
+comment9.target=java.lang.String\ getInfo()
+numComments=11

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=x\ y\ myType
+comment1.target=Tile(int,\ int,\ TileType)
+comment2.params=x
+comment2.target=void\ setX(int)
+comment3.params=y
+comment3.target=void\ setY(int)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=myEnum
+comment6.target=void\ setEnum(TileType)
+comment7.params=
+comment7.target=TileType\ getType()
+comment8.params=hidden
+comment8.target=void\ draw(boolean)
+numComments=9
