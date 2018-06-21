@@ -1,3 +1,0 @@
-BattleShip Game
-
-BlueJ project
