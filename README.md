@@ -1,9 +1,9 @@
 
 # BattleShip Game
-Download here: http://students.ceid.upatras.gr/~st1059637/battleship.html
+Download GUI version here: https://kounelisagis.com/BS-GUI.jar/
+Download Non-GUI version here: https://kounelisagis.com/BS-NO-GUI.jar/
 
 # Development
-BlueJ, Java, Swing
-
+Java, Swing
 
 ![alt text](https://raw.githubusercontent.com/AgisKounelis/BattleShip/master/UML-JAVA.png)
